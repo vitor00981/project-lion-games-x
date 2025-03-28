@@ -1,0 +1,17 @@
+## 
+import pygame 
+# inicializar
+pygame.init()
+tamanho_tela = (1920, 1080)
+tela = pygame.display.set_mode(tamanho_tela)
+  pygame.display.set_caption("Simple play to...")
+
+  tamanho bola = 25
+bola = pygame.Rect(200, 800, tamanho_bola, tamanho_bola)
+  tamanho_jogador = 100
+  jogador = pygame.rect(0, 750, tamanho jogador, 20)
+
+  qtde_blocos_linha = 100
+  qtde_linhas_blocos = 100
+  
+qtde_total_blocos = qtde_blocos_linha * qtde_linhas_blocos
