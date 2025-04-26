@@ -1,7 +1,7 @@
 # project lion-x v0.1 teste
 
 ⚠️ AVISO! ⚠️ \
-Apesar do nome, isso não tem nada a ver com a produtora ianque MGM, JÁ QUE O MASCOTE É UM LEÃO - OBRIGADO. O foco do projeto "Lion X" é trazer descrições de filmes de regiões que não sejam oriundas dos Estados Unidos da América - especialmente Hollywood.
+Apesar do nome, isso não tem nada a ver com a produtora ianque MGM, JÁ QUE O MASCOTE É UM LEÃO - OBRIGADO. O foco do projeto "Lion X" é trazer descrições de jogos dos anos 90 e suas hackroms.
 
 ## descrição
-Este teste tem como foco trazer dados sobre filmes e séries canadenses, gravados em Vancouver, Montreal e Toronto
+Tem como fogo jogos do Super Nintendo (Super Mario) e suas hackroms - editadas no Lunar Magic.
